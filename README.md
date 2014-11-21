@@ -35,4 +35,11 @@ If you have this running, you should see a window opened in a browser with somet
 
 From here, you can start a new notebook (using the 'New Notebook' button), or navigate and load an existing notebook, e.g. click on the link [Chapter 1](http://localhost:8889/tree/Chapter1) and then load the notebook [First Steps](http://localhost:8889/notebooks/Chapter1/firstSteps.ipynb).
 
+If you create a new notebook, you will probably want to give it a better name than the default (Untitled0 or similar), using the `File -> Rename...` menu:
+
+![rename](images/Rename.png "rename notebook")
+
+This is similar to any 'Save as' feature you may have used on other tools.
+
+
 
