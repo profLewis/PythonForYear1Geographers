@@ -41,7 +41,13 @@ If you create a new notebook, you will probably want to give it a better name th
 
 This is similar to any 'Save as' feature you may have used on other tools.
 
-It should be quite intuitive to explore the other menus and buttons on the [notebook](http://ipython.org/ipython-doc/2/notebook/index.html), and some 'help text' should appear as you hover over button (e.g. 'cut cell' for ![cut cell](images/cutcell.png "cut cell").
+It should be quite intuitive to explore the other menus and buttons on the [notebook](http://ipython.org/ipython-doc/2/notebook/index.html), and some 'help text' should appear as you hover over button (e.g. 'cut cell' for ![cut cell](images/cutcell.png "cut cell")). 
+
+The 'boxes' that look like:
+
+![cell](images/cell.png "cell")
+
+are called 'cells' in the notebook.
 
 
 
