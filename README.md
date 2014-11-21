@@ -49,6 +49,10 @@ The 'boxes' that look like:
 
 are called 'cells' in the notebook.
 
+By default, these are areas that you can type in *and run* computer code written in python (type 'code'), but we can also use them for other things, such as typing notes.
+
+![code](images/code.png "code")
+
 
 
 
