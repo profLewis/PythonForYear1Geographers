@@ -33,4 +33,6 @@ If you have this running, you should see a window opened in a browser with somet
 
 ![localhost](images/localhost.png)
 
+From here, you can start a new notebook (using the 'New Notebook' button), or navigate and load an existing notebook, e.g. click on the link [Chapter 1](http://localhost:8889/tree/Chapter1) and then load the notebook [First Steps](http://localhost:8889/notebooks/Chapter1/firstSteps.ipynb).
+
 
