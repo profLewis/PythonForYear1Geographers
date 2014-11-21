@@ -1,4 +1,4 @@
-ythonForYear1Geographers
+PythonForYear1Geographers
 =========================
 
 As an experiment, my first year (Geography BA/BSc) tutees are learning to program in python.
